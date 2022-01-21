@@ -50,6 +50,6 @@ public class Program {
             }
         }
         UI.clearScreen();
-        UI.printMatch(chessMatch, board);
+        UI.printMatch(chessMatch, captured);
     }
 }
